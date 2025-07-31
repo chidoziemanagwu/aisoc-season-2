@@ -1,1 +1,1 @@
-# Applied AI Pathway of AI Summer of Code 2.0
+# Applied AI Pathway of AISOC 2.0
