@@ -1,1 +1,1 @@
-# Production AI Pathway of AI Summer of Code 2.0
+# Production AI Pathway of AISOC 2.0
