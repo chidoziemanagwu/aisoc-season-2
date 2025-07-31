@@ -1,1 +1,1 @@
-# Machine Learning Pathway of AI Summer of Code 2.0
+# Machine Learning Pathway of AISOC 2.0
