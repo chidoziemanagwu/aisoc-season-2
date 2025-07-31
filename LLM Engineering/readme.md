@@ -1,1 +1,1 @@
-# LLM Engineering Pathway of AI Summer of Code 2.0
+# LLM Engineering Pathway of AISOC 2.0
