@@ -8,11 +8,6 @@ This repository contains a complete, copy-pasteable guide for a FastAPI AI infer
 2.  Virtual environment and package installation
 3.  main.py (full commented code)
 4.  Running locally (development)
-5.  Stopping Uvicorn
-6.  Docker + Redis (production-like)
-7.  VS Code launch and task configurations
-8.  Troubleshooting common issues
-9.  Recommended production enhancements
 
 ### Project setup and opening in VS Code
 
