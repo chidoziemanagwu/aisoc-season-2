@@ -31,7 +31,7 @@ python -m venv venv
 
 # Windows Command Prompt
 ```bash
-python -m venv venv
+python -m venv venv 
 .\venv\Scripts\activate
 ```
 

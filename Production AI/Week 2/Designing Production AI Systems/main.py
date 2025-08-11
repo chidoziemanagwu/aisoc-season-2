@@ -104,7 +104,7 @@ async def startup():
 async def predict(
     data: InputData,
     model: MLModel = Depends(get_model),
-    api_key: str = Depends(verify_api_key)
+    api_key: str = Depends(verify_api_key) 
 ):
     """
     Prediction endpoint:
